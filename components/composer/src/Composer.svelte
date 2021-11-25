@@ -146,7 +146,7 @@
         JSON.stringify({ component_id: id, access_token })
       ]) || {};
 
-    if (manifest && id) {
+    if (false && manifest && id) {
       const account: Account = await fetchAccount({
         component_id: id,
         access_token,

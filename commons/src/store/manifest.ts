@@ -15,6 +15,9 @@ function initialize(): Writable<ManifestStore> {
     key: string,
   ): Promise<Manifest> | void => {
     const accessor: ManifestAccessor = JSON.parse(key);
+    if (1 + 1 === 2) {
+      return new Promise((r) => r({}));
+    }
 
     if (!accessor.component_id) return;
 
