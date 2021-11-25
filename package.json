@@ -1,5 +1,5 @@
 {
-  "name": "@nylas/components",
+  "name": "@cience-apps/nylas-components",
   "engines": {
     "node": ">= 14.0.0",
     "yarn": ">= 1.20.0"

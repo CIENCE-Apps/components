@@ -1,5 +1,5 @@
 {
-  "name": "@nylas/components-commons",
+  "name": "@cience-apps/nylas-components-commons",
   "version": "0.0.22-alpha.0",
   "private": "true",
   "scripts": {
