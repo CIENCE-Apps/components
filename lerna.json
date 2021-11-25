@@ -1,5 +1,5 @@
 {
-  "packages": ["components/*"],
+  "packages": ["components/composer"],
   "version": "1.0.15",
   "npmClient": "npm",
   "preid": "canary",
